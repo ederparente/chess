@@ -15,7 +15,7 @@ public class Position {
 	public int getRow() {
 		return row;
 	}
-
+	/*não é necessário, substituido por setValues*/
 	public void setRow(int row) {
 		this.row = row;
 	}
@@ -24,6 +24,7 @@ public class Position {
 		return column;
 	}
 
+	/*não é necessário, substituido por setValues*/
 	public void setColumn(int column) {
 		this.column = column;
 	}
